@@ -1,7 +1,0 @@
-Vehicle has price
-Bike,Car,Truck extends Vehicle
-ParkingSlot has vehicle
-ParkingLotManger has Avilable Slots, Occupied Slot
-PaymentStrategy
-Cash,Card,UPI implements PaymentStrategy
-
